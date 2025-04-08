@@ -6,3 +6,7 @@ Content-Type: application/json
     "name": "César Daniel",
     "email": "cesar@gmail.com"
 }
+
+###
+
+GET http://localhost:3333/invites/qualquercoisa
